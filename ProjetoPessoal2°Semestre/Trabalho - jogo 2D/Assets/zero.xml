@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zero.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="ZeroAndando0000" x="0" y="0" width="120" height="100" pivotX="0" pivotY="0"/>
+	<SubTexture name="ZeroAndando0001" x="120" y="0" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0002" x="240" y="0" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0003" x="360" y="0" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0004" x="0" y="100" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0005" x="120" y="100" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0006" x="240" y="100" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0007" x="360" y="100" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0008" x="0" y="200" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0009" x="120" y="200" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0010" x="240" y="200" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0011" x="360" y="200" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0012" x="0" y="300" width="120" height="100"/>
+	<SubTexture name="ZeroAndando0013" x="120" y="300" width="120" height="100"/>
+	<SubTexture name="ZeroAtacando0000" x="240" y="300" width="120" height="100" pivotX="0" pivotY="0"/>
+	<SubTexture name="ZeroAtacando0001" x="360" y="300" width="120" height="100"/>
+	<SubTexture name="ZeroAtacando0002" x="0" y="400" width="120" height="100"/>
+	<SubTexture name="ZeroAtacando0003" x="120" y="400" width="120" height="100"/>
+	<SubTexture name="ZeroAtacando0004" x="240" y="400" width="120" height="100"/>
+	<SubTexture name="ZeroAtacando0005" x="360" y="400" width="120" height="100"/>
+	<SubTexture name="ZeroAtacando0006" x="0" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0000" x="120" y="500" width="120" height="100" pivotX="0" pivotY="0"/>
+	<SubTexture name="ZeroParado0001" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0002" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0003" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0004" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0005" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0006" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0007" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0008" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0009" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0010" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0011" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0012" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0013" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0014" x="120" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0015" x="240" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0016" x="240" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0017" x="240" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0018" x="240" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0019" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0020" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0021" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0022" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0023" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0024" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0025" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0026" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0027" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0028" x="360" y="500" width="120" height="100"/>
+	<SubTexture name="ZeroParado0029" x="0" y="600" width="120" height="100"/>
+	<SubTexture name="ZeroParado0030" x="120" y="600" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0000" x="240" y="600" width="120" height="100" pivotX="0" pivotY="0"/>
+	<SubTexture name="ZeroPulando0001" x="360" y="600" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0002" x="0" y="700" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0003" x="240" y="600" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0004" x="120" y="700" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0005" x="240" y="700" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0006" x="360" y="700" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0007" x="0" y="800" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0008" x="120" y="800" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0009" x="240" y="800" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0010" x="360" y="800" width="120" height="100"/>
+	<SubTexture name="ZeroPulando0011" x="0" y="900" width="120" height="100"/>
+</TextureAtlas>
